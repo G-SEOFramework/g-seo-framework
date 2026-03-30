@@ -47,3 +47,18 @@ Future revisions may be published as updated versions of the framework.
 ## Reference
 
 - Website: https://g-seo.ai
+
+- ## Framework Structure
+
+- Core Framework → /Core_Framework  
+- Documentation → /Documentation  
+- Implementation → /Implementation  
+- Website → /Website  
+- Governance → /Governance  
+- Legal → /Legal  
+
+---
+
+## Official Website
+
+https://g-seo.ai
