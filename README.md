@@ -1,64 +1,43 @@
-# G-SEO Framework
+# G-SEO™ Framework
 
-## Generative Search Optimization Framework
+The G-SEO™ Framework (Generative Search Optimization) is a structured standard for evaluating, designing, and optimizing content for generative search systems.
 
-G-SEO™ (Generative Search Optimization) is a structured framework for optimizing digital content for visibility within AI-generated search environments.
+---
 
-The framework defines methodologies for improving the likelihood that digital content will be referenced, summarized, or cited by generative search systems.
+## Framework Architecture
+
+- [Core Framework](./Core_Framework)
+- [Implementation](./Implementation)
+- [Documentation](./Documentation)
+- [Governance](./Governance)
+
+---
+
+## Overview
+
+The framework defines:
+
+- Canonical terminology for generative search
+- A structured scoring model for AI visibility
+- Implementation workflows for real-world application
+- Governance protocols for version control and evolution
 
 ---
 
 ## Purpose
 
-The G-SEO Framework establishes structured methodologies for:
+G-SEO establishes a standardized approach to:
 
-- Optimizing content for generative search systems  
-- Improving AI citation visibility  
-- Structuring semantic content for machine interpretation  
-
----
-
-## Core Components
-
-The framework consists of the following components:
-
-- Canonical Definitions  
-- Framework Specification  
-- G-SEO Score  
-- Implementation Principles  
+- Evaluate content performance in generative systems
+- Design content structures for AI retrieval and synthesis
+- Provide a repeatable methodology for adoption and certification
 
 ---
 
-## Version
+## Status
 
-**Current Version:** 1.0  
-**Source Documentation:** V08 Hardening  
-
----
-
-## Governance
-
-The G-SEO™ Framework documentation is maintained as part of an evolving specification.
-
-Future revisions may be published as updated versions of the framework.
+Version: 1.0  
+Classification: Public Framework  
+License: Pending
 
 ---
-
-## Reference
-
-- Website: https://g-seo.ai
-
-- ## Framework Structure
-
-- Core Framework → /Core_Framework  
-- Documentation → /Documentation  
-- Implementation → /Implementation  
-- Website → /Website  
-- Governance → /Governance  
-- Legal → /Legal  
-
----
-
-## Official Website
-
-https://g-seo.ai
