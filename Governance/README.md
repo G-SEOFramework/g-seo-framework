@@ -6,3 +6,8 @@ This section defines how the G-SEO Framework is maintained, controlled, and evol
 - Versioning Model  
 - Release Notes  
 - Authority Statement
+## Related Layers
+
+- [Core Framework](../Core_Framework)
+- [Implementation](../Implementation)
+- [Documentation](../Documentation)
