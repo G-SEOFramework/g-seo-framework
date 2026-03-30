@@ -1,3 +1,5 @@
+Official Framework Site: https://g-seo.ai
+
 # G-SEO™ Framework
 
 The G-SEO™ Framework (Generative Search Optimization) is a structured standard for evaluating, designing, and optimizing content for generative search systems.
