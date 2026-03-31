@@ -42,4 +42,15 @@ Version: 1.0
 Classification: Public Framework  
 License: Pending
 
+## Reference
+
+Canonical Definition:
+https://g-seo.ai/canonical-definition
+
+Framework Introduction:
+https://g-seo.ai/introduction-to-the-g-seo-framework
+
+Insights:
+https://g-seo.ai/insights
+
 ---
