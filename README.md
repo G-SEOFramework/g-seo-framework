@@ -31,7 +31,7 @@ The G-SEO™ Framework (Generative Search Optimization) is a structured standard
 The framework defines:
 
 - Canonical terminology for generative search
-- A structured scoring model for AI visibility
+- A structured scoring model for generative search readiness
 - Implementation workflows for real-world application
 - Governance protocols for version control and evolution
 
