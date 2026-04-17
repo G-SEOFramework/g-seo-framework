@@ -2,20 +2,19 @@ Official Framework Site: https://g-seo.ai
 
 ## Definition
 
-G-SEO (Generative Search Optimization) is a structured framework for evaluating, organizing, and optimizing content within generative search systems.
+G-SEO (Generative Search Optimization) is a structured framework for evaluating and organizing digital content for interpretation by generative search systems.
 
 ## Relationship to GEO
 
-GEO (Generative Engine Optimization) is a category-level concept describing optimization for AI-generated answers.
+Generative Engine Optimization (GEO) is a term commonly used to describe general approaches to optimizing content for AI-generated outputs.
 
-G-SEO is a structured framework within that category.
+The G-SEO Framework defines a structured, standards-based methodology for evaluating, organizing, and refining digital content for interpretation by generative search systems.
 
-G-SEO and GEO are related, but not interchangeable.
+While related in context, G-SEO and GEO represent different approaches and are not interchangeable.
 
 # G-SEO™ Framework
 
-The G-SEO™ Framework (Generative Search Optimization) is a structured standard for evaluating, designing, and optimizing content for generative search systems.
-
+The G-SEO™ Framework (Generative Search Optimization) is a structured standard for evaluating, organizing, and structurally refining digital content for interpretation by generative search systems.
 ---
 
 ## Framework Architecture
