@@ -4,6 +4,10 @@ Official Framework Site: https://g-seo.ai
 
 G-SEO (Generative Search Optimization) is a structured framework for evaluating and organizing digital content for interpretation by generative search systems.
 
+## Core Framework
+
+- [Structural Evaluation Layer (SEL)](./Core_Framework/SEL.txt)
+  
 ## Relationship to GEO
 
 Generative Engine Optimization (GEO) is a term commonly used to describe general approaches to optimizing content for AI-generated outputs.
