@@ -68,3 +68,9 @@ https://g-seo.ai/framework/insights/
 
 Structural Evaluation Layer (SEL)
 https://g-seo.ai/structural-evaluation-layer-sel/
+
+## Canonical Positioning
+
+For the current canonical positioning of the G-SEO ecosystem and framework structure, see:
+
+[G-SEO Current Canonical Positioning](G-SEO_Current_Canonical_Positioning.md)
