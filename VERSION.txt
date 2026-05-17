@@ -1,0 +1,5 @@
+G-SEO Framework
+Version: V01
+Status: FROZEN
+Release: SEL-aligned structural evaluation baseline
+Date: May 2026
